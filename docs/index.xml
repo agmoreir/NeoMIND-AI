@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NeoMIND-AI</title>
+    <link>https://zhaohuabing.com/</link>
+    <description>Recent content on NeoMIND-AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://zhaohuabing.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Zhaohuabing Blog</title>
+      <link>https://zhaohuabing.com/2017/11/03/hello-world/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/2017/11/03/hello-world/</guid>
+      <description>“Yeah It&amp;rsquo;s on. ” Hello World!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhaohuabing.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/about/</guid>
+      <description>Contact us Feel free to connect with us at NeoMind.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhaohuabing.com/committee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/committee/</guid>
+      <description>Steering committeeMemberRoleJim Barry, MDRyan McAdams, MDKristyn Beam, MDNicholas Carr, MDGeorge El-Ferzli, MDAntonio Hernandez, MDThomas Hooven, MDAmeena Husain, MDLindsey Knake, MD, MSRavi Patel, MD, MScAlvaro Moreira, MD, MSc</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhaohuabing.com/conferences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/conferences/</guid>
+      <description>ConferencesPediatric Academic SocietiesApril 27 - May 1, 2023. Washington, D.C.
+American Academy of PediatricsOctober 20 - 24, 2023. Washington, D.C.
+American Medical Informatics AssociationNovember 15 - 23, 2023. New Orleans, LA.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhaohuabing.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/home/</guid>
+      <description>PurposeOur purpose is to leverage the power of artificial intelligence (AI) to enhance the quality and precision of clinical care for neonates. As a team of experienced neonatologists, we are committed to advancing the field through the development and implementation of innovative AI-based tools and techniques that improve patient outcomes, increase efficiency, and reduce healthcare costs. Through collaboration with our peers, industry partners, and other stakeholders, we strive to create a more personalized and effective approach to neonatal care that benefits patients, families, and healthcare providers.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhaohuabing.com/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/presentations/</guid>
+      <description>Presentations - Podcasts - LecturesSpeakerTitleMonth/YearSlidesVideoAudioAnthony Chang MD, MBA, MPH, MSKeynote on Artificial Intelligence in HealthcareJuly 2020iCAN SummitRyan McAdams MDAcadicus VR RoundtableMay 2021Acadicus</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhaohuabing.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/publications/</guid>
+      <description>Publications2023TitleAuthorsJournalDevelopment of a peripheral blood transcriptomic gene signature to predict bronchopulmonary dysplasiaMoreira, A et alAm J Physiol Lung Cell Mol PhysiolPrediction of extubation failure among low birthweight neonates using machine learningNatarajan, A et alJ PerinatolMachine learning: remember the fundamentalsBeam, K et alJ Pediatr ResImproving child health through Big Data and data scienceVesoulis, Z et alPediatr ResEmerging role of artificial intelligence, big data analysis and precision medicine in pediatricsMalhotra, A et alPediatr ResFrom computer to bedside, involving neonatologists in artificial intelligence models for neonatal medicineVijlbrief, D et alPediatr ResArtificial intelligence in the diagnosis of necrotising enterocolitis in newbornsSitek, A et alPediatr ResMultiomics, artificial intelligence, and precision medicine in perinatologyPammi, M et alPediatr Res2022TitleAuthorsJournalInterpretable prediction of necrotizing enterocolitis from machine learning analysis of premature infant stool microbiotaLin, Y et alBMC BioinformaticsUse of an electronic medical record to optimize a neonatal sepsis score for mortality predictionHusain, A et alJ PerinatolArtificial and human intelligence for early identification of neonatal sepsisSullivan, B et alPediatr ResArtificial intelligence in pediatrics: the future is nowKnake, LPediatr ResArtificial intelligence for the diagnosis of retinopathy of prematurity: A systematic review of current algorithmsRamanathan, A et alEyePivotal challenges in artificial intelligence and machine learning applications for neonatal careJeong, H et alSemin Fetal Neonatal MedMachine learning for prediction of bronchopulmonary dysplasia-free survival among very preterm infantsLeigh, R et alBMC PediatrDevelopment and Validation of a Deep Learning Method to Predict Cerebral Palsy From Spontaneous Movements in Infants at High RiskGroos, D et alJAMA Netw OpenDevelopment and Validation of a Deep Learning Model to Predict the Occurrence and Severity of Retinopathy of PrematurityWu, Q et alJAMA Netw OpenMachine Learning Prediction Models for Neurodevelopmental Outcome After Preterm Birth: A Scoping Review and New Machine Learning Evaluation FrameworkBoven, M et alPediatricsMachine learning for understanding and predicting neurodevelopmental outcomes in premature infants: a systematic reviewBaker, S et alPediatr ResNeoAI 1.</description>
+    </item>
+    
+    <item>
+      <title>Posts Archive</title>
+      <link>https://zhaohuabing.com/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/archive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

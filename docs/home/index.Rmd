@@ -1,0 +1,26 @@
+---
+layout: page
+multilingual: false
+---
+
+## Purpose
+
+Our purpose is to leverage the power of artificial intelligence (AI) to enhance the quality and precision of clinical care for neonates. As a team of experienced neonatologists, we are committed to advancing the field through the development and implementation of innovative AI-based tools and techniques that improve patient outcomes, increase efficiency, and reduce healthcare costs. Through collaboration with our peers, industry partners, and other stakeholders, we strive to create a more personalized and effective approach to neonatal care that benefits patients, families, and healthcare providers.
+
+## Mission
+
+NeoMind's mission is to revolutionize neonatal care through the development and implementation of cutting-edge artificial intelligence technologies. Our vision is to create a future where neonatal care is more personalized, efficient, and effective, and where every child has the best possible start in life. Through collaboration with our peers, we will continue to push the boundaries of what is possible in neonatal care, and make a meaningful difference in the lives of patients, families, and healthcare providers.
+
+## Values
+
+**Innovation:** We value creativity, originality, and out-of-the-box thinking, and are committed to developing and implementing innovative solutions that push the boundaries of what is possible in neonatal care.
+
+**Empathy:** We value compassion, understanding, and sensitivity to the needs of patients and families, and strive to provide care that is not only effective but also empathetic and supportive.
+
+**Collaboration:** We value collaboration, communication, and teamwork, and believe that the best results come from working together with peers, industry partners, and other stakeholders.
+
+**Accountability:** We value responsibility, transparency, and accountability, and are committed to ensuring that our work meets the highest standards of quality and ethical conduct.
+
+**Continuous learning:** We value ongoing learning and professional development, and are committed to staying up-to-date with the latest research, technologies, and best practices in neonatal care and artificial intelligence.
+
+**Excellence:** We value excellence in all aspects of our work, and are committed to delivering the highest quality care and the most effective solutions for our patients and partners.

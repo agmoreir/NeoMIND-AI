@@ -1,0 +1,12 @@
+
+---
+layout: page
+---
+
+
+
+## Presentations - Podcasts - Lectures
+|Speaker         |Title        |Month/Year  | Slides      |Video      |Audio       |
+| ----------- |----------- |----------- |----------- |----------- |----------- |
+|Anthony Chang MD, MBA, MPH, MS|Keynote on Artificial Intelligence in Healthcare|July 2020| |[iCAN Summit](https://www.youtube.com/watch?v=mMtH8hiOrCU)|  |
+|Ryan McAdams MD|Acadicus VR Roundtable|May 2021| |[Acadicus](https://www.youtube.com/watch?v=E65Ub78wVIU)|  |

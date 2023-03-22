@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+## Steering committee
+|Member       |Role        |  
+| ----------- |----------- |
+| [Jim Barry, MD](https://www.cumedicine.us/providers/pediatrics/Jim-Barry#/)|     | 
+| [Ryan McAdams, MD](https://www.pediatrics.wisc.edu/staff/mcadams-ryan/)|     |
+| [Kristyn Beam, MD](https://www.childrenshospital.org/directory/kristyn-beam)|    |
+| [Nicholas Carr, MD](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6029943&name=nicholas-r-carr)|    |
+| [George El-Ferzli, MD](https://www.nationwidechildrens.org/find-a-doctor/profiles/george-t-el-ferzli)|    |
+| [Antonio Hernandez, MD](https://directory.uthscsa.edu/academics/profile/hernandezaj)|    |
+| [Thomas Hooven, MD](https://www.chp.edu/research/areas/researchers/hooven)|    |
+| [Ameena Husain, MD](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6041567&name=ameena-n-husain)|    |
+| [Lindsey Knake, MD, MS](https://medicine.uiowa.edu/pediatrics/profile/lindsey-knake)|    |
+| [Ravi Patel, MD, MSc](https://www.pedsresearch.org/people/faculty/ravi-patel-md)|    |
+| [Alvaro Moreira, MD, MSc](https://directory.uthscsa.edu/academics/profile/moreiraa)|    |
